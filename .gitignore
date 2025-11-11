@@ -1,0 +1,48 @@
+# Arma Reforger specific
+*.ent
+*.edds
+*.xob
+*.ptc
+*.bin
+*.cache
+
+# Workbench
+.workbench/
+*.trace
+
+# Build artifacts
+build/
+dist/
+*.pak
+
+# Logs
+*.log
+logs/
+
+# Editor backups
+*.bak
+*~
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Documentation builds
+docs/_build/
+site/

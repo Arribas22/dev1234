@@ -1,0 +1,11 @@
+{
+ "name": "NarcosLife Framework",
+ "guid": "5F5A8D6E8B1C4A2F",
+ "title": "NarcosLife Framework for Arma Reforger",
+ "version": "1.0.0",
+ "author": "Arribas22",
+ "dependencies": [],
+ "configurations": [
+  "Addons/NarcosLifeFramework/Configs/config.conf"
+ ]
+}
